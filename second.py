@@ -1,3 +1,5 @@
+# swapping two numbers without using a third variable
+
 A = int(input("enter the number: "))
 B = int(input("enter another number: "))
 
